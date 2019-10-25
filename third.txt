@@ -1,1 +1,2 @@
 this is third.txt
+This is the new commit from newtest.txt.
